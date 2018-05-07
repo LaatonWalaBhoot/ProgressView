@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressView">
+        <attr name="progress" format="integer"/>
+        <attr name="radius" format="dimension"/>
+        <attr name="animation_delay" format="integer"/>
+        <attr name="progress_color" format="color"/>
+        <attr name="progress_background_color" format="color"/>
+    </declare-styleable>
+</resources>
