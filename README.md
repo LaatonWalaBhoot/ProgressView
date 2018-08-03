@@ -20,7 +20,7 @@ Set Custom radius and animation delay(seconds) for filling up the progress view.
     
 ```
 
-#Limitaions
+# Limitaions
 Indeterminate version not available
 
 Setting text to both ends of progress bar not available.
