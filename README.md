@@ -1,7 +1,8 @@
 # ProgressView
+A LaatonWalaBhoot creation...
 
-![alt text](https://u.imageresize.org/v2/124c0b7a-3750-445d-8108-a5531acef9fb.png)
-![alt text](https://u.imageresize.org/v2/0875065a-4777-4671-a8d2-2cea0fe9dae7.png)
+![alt text](124c0b7a-3750-445d-8108-a5531acef9fb.png)
+![alt text](0875065a-4777-4671-a8d2-2cea0fe9dae7.png)
 
 Progress Bar for Android with custom background and track colors.
 
